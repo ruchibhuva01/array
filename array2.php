@@ -1,6 +1,6 @@
 <?php
 
-$student_detail=array("name"=>"vrunda","div"=>"B1","rollno"=>22,"email"=>"vrundadhamsania812@gmail.com","city"=>"rajkot");
+$student_detail=array("name"=>"ruchi","div"=>"B1","rollno"=>11,"email"=>"ruchi.229111@gmail.com","city"=>"rajkot");
 foreach($student_detail as $val)
 {
 	echo $val;
