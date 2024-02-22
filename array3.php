@@ -1,11 +1,11 @@
 <?php
 
-$student_detail=array(array("name"=>"vrunda","div"=>"B1","rollno"=>22,"city"=>"rajkot"),
-array("name"=>"pia","div"=>"B1","rollno"=>23,"city"=>"rajkot"),
-array("name"=>"heet","div"=>"B1","rollno"=>24,"city"=>"rajkot"),
-array("name"=>"neal","div"=>"B1","rollno"=>25,"city"=>"rajkot"),
-array("name"=>"om","div"=>"B1","rollno"=>26,"city"=>"rajkot"),
-array("name"=>"mahir","div"=>"B1","rollno"=>27,"city"=>"rajkot"));
+$student_detail=array(array("name"=>"ruchi","div"=>"B1","rollno"=>11,"city"=>"rajkot"),
+array("name"=>"disha","div"=>"B1","rollno"=>23,"city"=>"rajkot"),
+array("name"=>"richa","div"=>"B1","rollno"=>24,"city"=>"rajkot"),
+array("name"=>"prushti","div"=>"B1","rollno"=>25,"city"=>"rajkot"),
+array("name"=>"hiteshree","div"=>"B1","rollno"=>26,"city"=>"rajkot"),
+array("name"=>"sakshi","div"=>"B1","rollno"=>27,"city"=>"rajkot"));
 
 foreach($student_detail as $myval)
 {
